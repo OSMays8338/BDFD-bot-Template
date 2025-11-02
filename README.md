@@ -11,10 +11,11 @@ Each file contains:<br>
 <br><br>
 
 Features<br>
-• Administrator <br>
+• Custom Prefix <br>
+• Server Owner Setup Guide System <br>
 • Moderation <br>
 • Chat Leveling System<br> 
-• Economy <br>
+• Economy System <br>
 • Bank<br>
 • Store<br>
 • Tag System <br>
@@ -22,6 +23,3 @@ Features<br>
 MORE TO COME 
 
 Economy, Bank & Store are all set as local server variables
-To make Global, change `$setUserVar` to `$setVar` and add `;$authorID` to the end of the variable
-
-`$setVar[name;&author]`
