@@ -1,4 +1,4 @@
-# BDFD System
+# BDFD bot Template
 
 Sets of Commands to help build your BDFD bot. <br><br><br>
 
